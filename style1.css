@@ -1,0 +1,21 @@
+.box_container{
+    margin:3px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    width: 500px;
+    height: 140px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    margin:10px;
+    border: 3px solid orange;
+    background-color: orange;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

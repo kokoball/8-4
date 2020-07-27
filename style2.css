@@ -1,0 +1,18 @@
+.box_container{
+    margin:3px;
+    width: 500px;
+    height: 140px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{margin:5px;
+    border: 2px solid orange;
+    background-color: orange;
+    border-radius: 2px;
+    width: 100px;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
